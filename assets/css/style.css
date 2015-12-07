@@ -34,6 +34,15 @@ h2{
   display: block;
 }
 
+.nav1{
+  background-color:#FFFF66;
+  font-family: 'Raleway';
+  color: #808080;
+  padding-left: 10px;
+  font-weight: bold;
+  display: block;
+  float: right;
+}
 .menu{
   background-color: #FFFF66;
 }
