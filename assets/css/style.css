@@ -31,7 +31,6 @@ h2{
   background-color:#FFFF66;
   font-family: 'Raleway';
   color: #808080;
-  padding: 30px;
   font-weight: bold;
   display: block;
 }
@@ -40,11 +39,11 @@ h2{
   background-color:#FFFF66;
   font-family: 'Raleway';
   color: #808080;
-  padding: 30px;
   font-weight: bold;
   display: block;
   float: right;
 }
 .menu{
   background-color: #FFFF66;
+  padding: 15px;
 }
