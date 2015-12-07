@@ -6,7 +6,9 @@
   border-right: 1px solid black;
   height: 1080px;
 }
-
+body{
+  background-color: #99CCFF;
+}
 h1{
   font-family: 'Raleway';
 }
