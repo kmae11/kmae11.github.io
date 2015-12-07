@@ -8,7 +8,6 @@
 }
 body{
   background-color: #99CCFF;
-  padding: 20px;
 }
 h1{
   font-family: 'Raleway';
@@ -28,11 +27,21 @@ h4{
   font-family: 'Raleway';
   font-weight: bold;
 }
+
 .text{
   font-family: 'Raleway';
   font-weight: bold;
-
+  padding-top: 20px;
 }
+
+.image{
+  padding-top: 20px;
+}
+
+.video{
+  padding-top: 20px;
+}
+
 .nav{
   background-color:#FFFF66;
   font-family: 'Raleway';
