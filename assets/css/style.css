@@ -1,5 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
   height: 1080px;
+}
+
+h1{
+  font family: 'Raleway';
+}
+
+h2{
+    font-family: 'Raleway';
 }
