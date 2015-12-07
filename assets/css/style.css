@@ -8,9 +8,12 @@
 }
 
 h1{
-  font family: 'Raleway';
+  font-family: 'Raleway';
 }
 
 h2{
     font-family: 'Raleway';
+}
+.text{
+  font-family: 'Raleway';
 }
