@@ -12,12 +12,13 @@ body{
 h1{
   font-family: 'Raleway';
   color: #808080;
-  background-color: #FFFF66;
+  background-color: #FFFF99;
 }
 
 h2{
     font-family: 'Raleway';
     color: #808080;
+    background-color: #9999FF
 }
 .text{
   font-family: 'Raleway';
@@ -25,7 +26,7 @@ h2{
 
 }
 .nav{
-  background-color: #9999FF;
+  background-color:#FFFF66;
   font-family: 'Raleway';
   color: #808080;
   padding-left: 10px;
