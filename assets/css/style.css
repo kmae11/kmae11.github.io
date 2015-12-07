@@ -23,7 +23,7 @@ h1{
 h2{
     font-family: 'Raleway';
     color: #606060;
-    background-color: #FFCC99;
+    background-color: #9999FF;
     padding: 20px;
 }
 
@@ -52,7 +52,7 @@ h4{
   float: right;
 }
 .nav{
-  background-color:#FFFF66;
+  background-color:#FFCC99;
   font-family: 'Raleway';
   color: #808080;
   font-weight: bold;
@@ -60,7 +60,7 @@ h4{
 }
 
 .nav1{
-  background-color:#FFFF66;
+  background-color:#FFCC99;
   font-family: 'Raleway';
   color: #808080;
   font-weight: bold;
@@ -68,6 +68,6 @@ h4{
   float: right;
 }
 .menu{
-  background-color: #FFFF66;
+  background-color: #FFCC99;
   padding: 15px;
 }
