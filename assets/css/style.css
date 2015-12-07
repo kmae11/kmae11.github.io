@@ -16,15 +16,18 @@ h1{
   padding: 40px;
   text-align: center;
 }
-
+.title{
+      background-color: #FFFF99;
+}
 h2{
     font-family: 'Raleway';
     color: #606060;
     background-color: #9999FF;
     padding: 20px;
 }
-.title{
-      background-color: #9999FF;
+
+.pages{
+    background-color: #9999FF;  
 }
 h4{
   font-family: 'Raleway';
