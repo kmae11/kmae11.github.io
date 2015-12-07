@@ -32,5 +32,8 @@ h2{
   padding-left: 10px;
   font-weight: bold;
   display: block;
+}
 
+.menu{
+  background-color: #FFFF66;
 }
