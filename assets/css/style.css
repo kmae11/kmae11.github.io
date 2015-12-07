@@ -41,7 +41,9 @@ h4{
 .video{
   padding-top: 20px;
 }
-
+.video1{
+  float: right;
+}
 .nav{
   background-color:#FFFF66;
   font-family: 'Raleway';
