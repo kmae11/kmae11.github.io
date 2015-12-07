@@ -19,7 +19,7 @@ h2{
 .text{
   font-family: 'Raleway';
 }
-.nav{
+.nav, .btn, .btn-primary{
   background-color: #FFFF66;
   font-family: 'Raleway';
   color: #808080;
