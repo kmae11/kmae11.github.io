@@ -11,18 +11,22 @@ body{
 }
 h1{
   font-family: 'Raleway';
+  color: #808080;
 }
 
 h2{
     font-family: 'Raleway';
+    color: #808080;
 }
 .text{
   font-family: 'Raleway';
+  font-weight: bold;
+
 }
 .nav, .btn, .btn-primary{
   background-color: #FFFF66;
   font-family: 'Raleway';
   color: #808080;
-  padding-left: 3px;
+  padding-left: 10px;
 
 }
