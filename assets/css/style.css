@@ -24,6 +24,10 @@ h2{
     background-color: #9999FF;
     padding: 20px;
 }
+h4{
+  font-family: 'Raleway';
+  font-weight: bold;
+}
 .text{
   font-family: 'Raleway';
   font-weight: bold;
